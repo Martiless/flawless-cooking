@@ -5,6 +5,13 @@ This website has been created as the first Milestone project for Code Institute'
 
 ## Table of content: 
   1.Wireframe 
+  2.Fetures
+  3.Testing
+  4.Bugs
+  5.Valitation
+  6.Accessibilty
+  7.Deployment
+  8.Credits
   
   
 ### Wireframe:
@@ -17,4 +24,5 @@ Recipe:
 ![image](https://user-images.githubusercontent.com/81761397/136006678-d10c5a57-75c8-43f0-a0a8-f4459fff6f5e.png)
 
 About: 
-![image](https://user-images.githubusercontent.com/81761397/136006869-7ce31827-84a6-42db-9a3b-091149b695de.png)
+![image](https://user-images.githubusercontent.com/81761397/136015563-6cc1cebc-6b6b-4aca-ab49-1b04704b44a8.png)
+
