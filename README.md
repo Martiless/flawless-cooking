@@ -4,14 +4,14 @@ This is a website for kids cookery classes based in Cork. Complete with enquiry 
 This website has been created as the first Milestone project for Code Institute's Full Stack Software Development Diploma. 
 
 ## Table of content: 
-  1.Wireframe 
-  2.Fetures
-  3.Testing
-  4.Bugs
-  5.Valitation
-  6.Accessibilty
-  7.Deployment
-  8.Credits
+ * Wireframe 
+ * Fetures
+ * Testing
+ * Bugs
+ * Valitation
+ * Accessibilty
+ * Deployment
+ * Credits
   
   
 ### Wireframe:
